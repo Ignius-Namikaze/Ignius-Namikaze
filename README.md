@@ -18,8 +18,6 @@
 <h1 align="center">Hi 👋, I'm Tungishsanjay Sankar</h1>
 <h3 align="center">A passionate upcoming Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignius-namikaze&label=Profile%20views&color=0e75b6&style=flat" alt="ignius-namikaze" /> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ignius-Namikaze](https://github.com/Ignius-Namikaze)
