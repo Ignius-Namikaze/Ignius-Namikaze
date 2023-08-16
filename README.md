@@ -1,3 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+   <a href="https://www.linkedin.com/in/tungishsanjay-sankar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/lavaleviathan11/">
+    <img src="https://img.shields.io/badge/-Instagram-orange?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" />
+  </a>
+  <a href="https://twitter.com/Tungishsanjay71">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="Profile_Views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ignius-namikaze&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align="center">Hi 👋, I'm Tungishsanjay Sankar</h1>
 <h3 align="center">A passionate upcoming Fullstack developer from India</h3>
 
@@ -9,7 +26,7 @@
 
 - 📝 I regularly write articles on [https://tungishsanjay-sankar.blogspot.com/](https://tungishsanjay-sankar.blogspot.com/)
 
-- 💬 Ask me about **ML, DL, AI, Coding Languages**
+- 💬 Ask me about **ML, DL, AI, and Coding Languages**
 
 - 📫 How to reach me **tungishsanjay.mudaliyar@outlook.com**
 
